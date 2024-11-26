@@ -35,7 +35,7 @@ while(True):
          elif(c1==3):
             roll_no=input("\nEnter PGDCA student roll no:")
             name=input("Enter PGDCA student name:")
-            print("Add PGDCA student ",addPgdcaStudent(roll_no,name,mca),"successfully....")
+            print("Add PGDCA student ",addPgdcaStudent(roll_no,name,pgdca),"successfully....")
          elif(c1==4):
              break
    elif(c==2):
